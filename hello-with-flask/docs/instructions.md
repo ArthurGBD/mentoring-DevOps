@@ -141,6 +141,9 @@ networks:
 
     Abra o navegador e vá para `http://localhost`.
 
+*** RESULTADO ***
+![<alt-text>](hello-nginx-server.png)
+
 ### Próximos Passos
 
 A partir daqui, podemos continuar a adicionar funcionalidades e ferramentas no Docker Compose, que serão úteis na produção. Isso facilitará a transição para o Kubernetes no futuro.
