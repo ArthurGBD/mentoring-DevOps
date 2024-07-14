@@ -1,0 +1,12 @@
+Arthur@DESKTOP-7OUGLTD MINGW64 /d/DevOps/mentoring (main)
+$ python --version
+Python 3.12.2
+
+Arthur@DESKTOP-7OUGLTD MINGW64 /d/DevOps/mentoring (main)
+$ python -m venv venv
+
+Arthur@DESKTOP-7OUGLTD MINGW64 /d/DevOps/mentoring (main)
+$ source venv/Scripts/activate
+(venv) 
+Arthur@DESKTOP-7OUGLTD MINGW64 /d/DevOps/mentoring (main)
+$ pip install flask
