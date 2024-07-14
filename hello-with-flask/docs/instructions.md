@@ -142,7 +142,7 @@ networks:
     Abra o navegador e vá para `http://localhost`.
 
 *** RESULTADO ***
-![<alt-text>](hello-nginx-server.png)
+![<alt-text>](nginx-server-flask.png)
 
 ### Próximos Passos
 
