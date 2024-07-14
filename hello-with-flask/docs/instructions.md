@@ -141,8 +141,8 @@ networks:
 
     Abra o navegador e vá para `http://localhost`.
 
-*** RESULTADO ***
-![<alt-text>](nginx-server-flask.png)
+  *** RESULTADO ***
+  ![<alt-text>](./nginx-server-flask.png)
 
 ### Próximos Passos
 
