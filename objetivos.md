@@ -1,5 +1,7 @@
 Aqui está a organização das instruções fornecidas:
 
+change
+
 ### Sugestão de Atividades e Progresso
 
 1. **Configuração Inicial**
